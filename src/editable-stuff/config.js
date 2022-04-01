@@ -11,14 +11,11 @@ const mainBody = {
   lastName: "Nachtrab",
   message: " Prop maker for hire. ",
   icons: [
-    {
-      image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
-    },
+    
    
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/kiba_makes/",
     },
     
   ],
